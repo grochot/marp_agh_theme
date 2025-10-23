@@ -9,7 +9,7 @@
 }
 
 section {
-    background-image: url("./svgs/background.svg");
+    background-image: url("/svgs/background.svg");
 }
 
 section.chapter-alt {
@@ -22,7 +22,7 @@ section.chapter-alt {
 }
 
 section.title {
-    background-image: url("./svgs/titlepage.svg")
+    background-image: url("/svgs/titlepage.svg")
 }
 
 section.end {
