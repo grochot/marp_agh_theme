@@ -22,7 +22,7 @@ section.chapter-alt {
 }
 
 section.title {
-    background-image: url("/svgs/titlepage.svg")
+    background-image: url("https://raw.githubusercontent.com/grochot/marp_agh_theme/refs/heads/main/themes/svgs/titlepage.svg")
 }
 
 section.end {
