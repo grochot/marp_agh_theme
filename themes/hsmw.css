@@ -9,7 +9,7 @@
 }
 
 section {
-    background-image: url("/svgs/background.svg");
+    background-image: url("https://raw.githubusercontent.com/grochot/marp_agh_theme/refs/heads/main/themes/svgs/background.svg");
 }
 
 section.chapter-alt {
