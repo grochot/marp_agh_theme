@@ -1,0 +1,1 @@
+﻿url("data:image/svg+xml,")
